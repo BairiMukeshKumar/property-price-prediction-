@@ -1,1 +1,1 @@
-# property-price-prediction-
+Property price prediction involves estimating the future price.Based on various factors such as location, property size and bedrooms.For this,we used Machine Learning algorithm "Linear Regression" to predict the future prize of the property based on the given characteristics.
